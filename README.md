@@ -15,7 +15,7 @@
 # :camera: Capturas de Tela
 
 <div>
-   <img src="./img-readme/sc-web.png" width="700px">
+   <img src="./img-readme/gif-web.gif" width="700px">
 </div>
 
 <br/><br/>
