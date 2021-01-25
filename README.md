@@ -12,10 +12,18 @@
 
 <br/><br/>
 
+# :eyes: Visualizar projeto
+
+Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://netflixclone-kohl.vercel.app/)
+
+<br/>
+
 # :camera: Capturas de Tela
 
 <div>
-   <img src="./img-readme/gif-web.gif" width="700px">
+   <img src="./img-readme/sc-web.png" width="700px">
 </div>
 
 <br/><br/>
