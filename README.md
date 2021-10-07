@@ -4,23 +4,23 @@
 
 <div align="center">
   <sub>
-    Clone do FrontEnd da aplicação WEB da Netflix<br/>
-    Criado com base no vídeo do <b>Bonieky Lacerda</b><br/>
-    Feito por <a href="https://github.com/KaikySantos">Kaiky Santos</a>
+    Netflix web application frontend clone<br/>
+    Created based on the video from <b>Bonieky Lacerda</b><br/>
+    Made by <a href="https://github.com/KaikySantos">Kaiky Santos</a>
   </sub>
 </div>
 
 <br/><br/>
 
-# :eyes: Visualizar projeto
+# :eyes: View project
 
-Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+Click on the button below to see the project's deployment on [Vercel](https://vercel.com)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://netflixclone-kohl.vercel.app/)
 
 <br/>
 
-# :camera: Capturas de Tela
+# :camera: Screenshot
 
 <div>
    <img src="./img-readme/sc-web.png" width="700px">
@@ -28,15 +28,15 @@ Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.
 
 <br/><br/>
 
-# :construction_worker: Como Rodar?
+# :construction_worker: How work ?
 ```bash
-# Clone o Repositório:
+# Clone this repository
 $ git clone https://github.com/KaikySantos/Proffy.git
-# Entre na pasta criada:
+# Access the project folder
 $ cd netflixclone
-# Instale as dependências:
+# Install the dependencies
 $ npm install
-# Rode a aplicação:
+# Run the application
 $ npm start
 ```
-Acesse http://localhost:3000/ para ver a aplicação!
+Go to http://localhost:3000/ to see the result!
